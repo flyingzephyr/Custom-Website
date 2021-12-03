@@ -186,11 +186,11 @@ html {
 
 /*banner starts*/
 .banner-bg {
-    height: 600px;
+    height: 800px;
 }
 
     .banner-bg .banner-slider .banner-item {
-        height: 600px;
+        height: 800px;
         position: relative;
         z-index: 1;
         font-family: var(--mf);
@@ -236,7 +236,7 @@ html {
     .banner-bg .banner-slider .banner-item .banner-text h1 {
         font-size: 48px;
         color: var(--c2);
-        padding-top: 240px;
+        padding-top: 340px;
     }
 
     .banner-bg .banner-slider .banner-item .banner-text p {
